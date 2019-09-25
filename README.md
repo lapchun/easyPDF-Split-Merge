@@ -17,5 +17,4 @@ D:/my_folder/my_pdf_3.pdf 6,8,9-20
 * The content of the `config.txt` must use the **forward slash "/"** instead of the back slash "\\".
 * The `new.pdf` will be saved in the same directory in default.
 * Plus, the name and path of `*.txt` and `*.pdf` depend on you.
-
-### This project is forked from [gaborvecsei/Pdf-Split-Merge](https://github.com/gaborvecsei/Pdf-Split-Merge) and improved.
+* This project is forked from [gaborvecsei/Pdf-Split-Merge](https://github.com/gaborvecsei/Pdf-Split-Merge) and improved.
