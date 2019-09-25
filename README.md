@@ -9,7 +9,6 @@ Write a config file like this (`config.txt`):
 D:/my_folder/my_pdf_1.pdf 1-10,16,22
 D:/my_folder/my_pdf_2.pdf 1-40
 D:/my_folder/my_pdf_3.pdf 6,8,9-20
-
 ```
 
 ## Note
